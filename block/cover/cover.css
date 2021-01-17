@@ -1,6 +1,6 @@
 .cover {
-    position: relative;
     background-image: url("../../images/cover-trains.jpg");
+    display: grid;
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 740px;

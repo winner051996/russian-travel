@@ -1,5 +1,19 @@
-
 .places__text {
     margin-block-start: 0;
     margin-left: 40px;
+}
+
+
+@media screen and (max-width: 320px) {
+    .places__text {
+        margin-top: 15px;
+        margin: 15px auto 0 auto;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .places__text {
+        margin-top: 15px;
+        margin: 15px auto 0 auto;
+    }
 }
