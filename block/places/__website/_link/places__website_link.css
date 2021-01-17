@@ -1,0 +1,16 @@
+.places__website_link {
+    font-family: Inter;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: underline;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    color: white;
+}
+
+@media screen and (max-width: 768px) {
+    .places__website_link {
+        font-size: 13px;
+        line-height: 18px;
+        }
+    }

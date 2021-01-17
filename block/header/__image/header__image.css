@@ -1,0 +1,14 @@
+.header__image {
+    background-image: url('../../../images/logo-russia.svg');
+    background-size: 176px 52px;
+    width: 176px;
+    height: 52px;
+}
+
+@media screen and (max-width: 425px) {
+    .header__image {
+        background-size: 142px 42px;
+        width: 142px;
+        height: 42px;
+    }
+}

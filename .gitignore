@@ -1,0 +1,5 @@
+*.fig
+template.css
+node_modules/*
+debug.log
+*.json

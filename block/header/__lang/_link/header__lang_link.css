@@ -1,0 +1,14 @@
+.header__lang_link {
+    margin-left: 18px;
+    color: white;
+    text-decoration: none;
+}
+
+.header__lang_link:hover {
+    opacity: 0.7;
+    text-decoration: underline;
+}
+
+.header__lang_link:active {
+    text-decoration: underline;
+}
