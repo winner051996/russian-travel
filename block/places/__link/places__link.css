@@ -1,4 +1,4 @@
-.places__website_link {
+.places__link {
     font-family: Inter;
     font-size: 18px;
     line-height: 22px;
@@ -9,7 +9,7 @@
 }
 
 @media screen and (max-width: 768px) {
-    .places__website_link {
+    .places__link {
         font-size: 13px;
         line-height: 18px;
         }
