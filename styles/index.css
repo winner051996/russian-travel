@@ -28,6 +28,7 @@
 @import url('../block/places/__flex-row/places__flex-row.css');
 @import url('../block/places/__image/places__image.css');
 @import url('../block/places//__text/places__text.css');
+@import url('../block/places/__place/places__place.css');
 
 /* @import url('../block/places/__paragraph/_text/places__paragraph_text.css'); */
 @import url('../block/places/__title/places__title.css');
