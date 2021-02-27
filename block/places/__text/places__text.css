@@ -1,6 +1,10 @@
 .places__text {
     margin-block-start: 0;
     margin-left: 40px;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
 }
 
 
