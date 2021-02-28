@@ -3,30 +3,6 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     background-color: #2a2c2f;
-    width: 90%;
-    margin: 0 auto 0 auto;
-}
-
-@media screen and (max-width:  1280px) {
-    .root {
-        width: 100%;
-    }
-}
-
-@media screen and (max-width:  1024px) {
-    .root {
-        width: 100%;
-    }
-}
-
-@media screen and (max-width:  768px) {
-    .root {
-        width: 100%;
-    }
-}
-
-@media screen and (max-width:  425px) {
-    .root {
-        width: 100%;
-    }
+    /* width: 90%; */
+    /* margin: 0 auto 0 auto; */
 }
