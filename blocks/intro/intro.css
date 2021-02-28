@@ -2,12 +2,6 @@
     margin: 92px auto 0 auto;
     width: 90%;
 }
-/* 
-@media screen and (min-width: 1281px) {
-    .intro {
-        width: 85%;
-    }
-} */
 
 @media screen and (max-width: 1280px) {
     .intro {
