@@ -1,5 +1,5 @@
 .footer__link {
-    font-family: Inter;
+    font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -14,27 +14,27 @@
     margin-left: 0;
 }
 
-@media screen and (max-width: 1025px) {
+/* @media screen and (max-width: 1025px) {
     .footer__link {
         width: 90%;
     }
-}
+} */
 
-@media screen and (max-width: 767px) {
+/* @media screen and (max-width: 767px) {
     .footer__link {
         margin-left: 10px;
         font-size: 12px;
         line-height: 14px;
     }
-}
+} */
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
     .footer__link {
         margin-left: 0;
         flex-direction: column;
-        max-width: 186px;
+        /* max-width: 186px; */
         margin-top: 32px;
-        font-family: Inter;
+        font-family: 'Inter', Arial, sans-serif;
         font-style: normal;
         font-weight: 400;
         font-size: 24px;

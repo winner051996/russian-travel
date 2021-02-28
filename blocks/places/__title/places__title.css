@@ -4,9 +4,9 @@
     margin-block-start: 0;
     margin-block-end: 0;
     max-height: 460px;
-    max-width: 43%;
-    min-width: 43%;
-    font-family: Inter;
+    max-width: 45%;
+    min-width: 45%;
+    font-family: 'Inter', Arial, sans-serif;
     font-weight: 900;
 }
 
@@ -20,10 +20,8 @@
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .places__title {
         min-width: 53%;
-        font-family: Inter;
         font-size: 42px;
         font-style: normal;
-        font-weight: 900;
         line-height: 46px;
         letter-spacing: 0em;
     }
@@ -32,10 +30,8 @@
 @media screen and (min-width: 320px) and (max-width: 767px) {
     .places__title {
         width: 90%;
-        font-family: Inter;
         font-size: 32px;
         font-style: normal;
-        font-weight: 900;
         line-height: 35px;
         letter-spacing: 0em;
         text-align: left;

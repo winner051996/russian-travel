@@ -18,8 +18,8 @@
 
 @media screen and (min-width: 320px) and  (max-width: 767px) {
     .places__flex-row {
+        margin-top: 32px;
         display: block;
-        margin-top: 48px;
     }
     
 }

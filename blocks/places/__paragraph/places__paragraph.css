@@ -1,25 +1,18 @@
 .places__paragraph {
-    font-family: Inter;
-    font-size: 18px;
+    font-family: 'Inter', Arial, sans-serif;
     line-height: 22px;
     margin-left: 40px;
 }
 
-@media screen and (max-width:  768px) {
+@media screen and (min-width: 768px) and (max-width: 1023px) {
     .places__paragraph {
-        font-size: 16px;
-        line-height: 18px;
+        margin-left: 28px;
     }
 }
 
-
-@media screen and (max-width: 425px) {
+@media screen and (min-width: 320px) and (max-width: 767px) {
     .places__paragraph {
-        font-size: 18px;
-        line-height: 26px;
-    }
-    
-    .places__paragraph:first-child {
-        margin-top: 32px;
+        width: 90%;
+        margin: 15px auto 0 auto;
     }
 }

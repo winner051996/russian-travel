@@ -9,26 +9,26 @@
 
 
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
     .footer {
         width: 90%;
         margin-left: auto;
         margin-right: auto;
     }
-}
+} */
 
 @media screen and (max-width: 767px) {
     .footer {
         margin: 64px auto 24px 5%;
-        width: 90%;
+        /* width: 90%; */
         
     }
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
     .footer {
-        display: flex;
-        justify-content: space-between;
+        /* display: flex; */
+        /* justify-content: space-between; */
         flex-direction: column;
     }
 }
