@@ -5,7 +5,7 @@
     background-repeat: no-repeat;
     min-height: 740px;
     margin: 92px auto 0 auto;
-    width: 90%;
+    width: 1184px;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
@@ -13,6 +13,7 @@
         
         min-height: 480px;
         margin-top: 90px;
+        width: 90%;
     }
     
 }
@@ -21,6 +22,7 @@
     .cover {
         min-height: 200px;
         margin-top: 66px;
+        width: 90%;
     }
     
 }
