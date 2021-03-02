@@ -4,8 +4,7 @@
     margin-block-start: 0;
     margin-block-end: 0;
     max-height: 460px;
-    max-width: 45%;
-    min-width: 45%;
+    width: 460px;
     font-family: 'Inter', Arial, sans-serif;
     font-weight: 900;
 }
@@ -19,7 +18,7 @@
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .places__title {
-        min-width: 53%;
+        min-width: 340px;
         font-size: 42px;
         font-style: normal;
         line-height: 46px;
